@@ -1,3 +1,2 @@
 ```math
-\ce{&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset: 0; opacity: 100%; background-size: 100% 100%; background-image: url('https://github.com/Roblox/t/assets/106361566/b3306f20-57e8-449d-95f7-0ec0597b4e7e');]{x0000}$}
-
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Roblox/foreman/assets/133786254/ec27a1a8-694e-4b9f-be2f-8dd3be18752f');]{x0000}$}
